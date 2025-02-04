@@ -12,7 +12,7 @@ Illustrations de Iria Iglesias
 Édition Asociación GHANDALF, Espagne
 
 Ce travail est distribué sous licence
-Creactive Commons 4.0 International,
+Creative Commons 4.0 International,
 avec clauses d'attribution et de partage à l'identique.
 (CC BY-SA 4.0 International)
 La carte de la couverture provient de openstreetmap.org/copyright
@@ -46,7 +46,7 @@ Mais elle ne les utilise pas seulement pour jouer, elle le fait un peu, mais ce 
 Fanny se déplace toujours à vélo.
 L'endroit où elle aime le plus aller est la maison de sa grand-mère.
 
-— Manie ! Je suis là, il y a des biscuits ?
+— Mamie ! Je suis là, il y a des biscuits ?
 
 ## Page 6
 
@@ -60,28 +60,28 @@ De plus, elle fait de délicieux biscuits.
 ## Page 7
 
 — Oh, Mamie, qu'est-ce qui ne va pas ?
-— Je crois qu'il y a une panne de courant. Répond sa grand-mère d'une voix rassurante.
+— Je crois qu'il y a une panne de courant, répond sa grand-mère d'une voix rassurante.
 — Eh bien… je voulais chercher sur la tablette l'endroit dont tu parlais dans ton histoire, mais la batterie est vide.
 — Ne t'inquiète pas, je crois que j'ai la solution.
 
 ## Page 8
 
-— Mamie, qu'est-ce que c'est ? Demande Fanny, curieuse.
+— Mamie, qu'est-ce que c'est ? demande Fanny, curieuse.
 — Ce sont des livres que j'ai ramenés d'Amériques. J'en ai ramené tellement que je ne sais pas où les mettre. Je pense qu'il y en a un qui va t'aider.
 
 ## Page 9
 
-— Quel est ce livre, Mamie ? Demande Fanny avec des yeux pétillants.
+— Quel est ce livre, Mamie ? demande Fanny avec des yeux pétillants.
 — C'est un atlas ! Quand j'étais jeune, les cartes ne se trouvaient que dans des livres comme celui-là. Il n'y avait pas d'appareils modernes comme ta tablette.
 
 ## Page 10
 
-— Mais Manie, il y a des cartes très anciennes dans ce livre, À l'époque, ils n'avaient pas la technologie que nous avons aujourd'hui.
+— Mais Mamie, il y a des cartes très anciennes dans ce livre, et à l'époque, ils n'avaient pas la technologie que nous avons aujourd'hui.
 Comment faisait-on les cartes ?
 
 — Eh bien, elles étaient dessinées par des cartographes.
 
-— Comment ça, ils les dessinaient ? Demande Fanny étonnée.
+— Comment ça, ils les dessinaient ? demande Fanny étonnée.
 
 Sa grand-mère rit et commence à lui expliquer.
 
@@ -89,7 +89,7 @@ Sa grand-mère rit et commence à lui expliquer.
 
 Les cartographes rassemblaient des informations provenant de nombreux endroits du
 monde pour comprendre à quoi il ressemblait. Ils discutaient avec des explorateurs,
-des commerçants et des marins qui leur racontaient leurs aventures, les routes qu'ils
+des commerçants et des marins qui leurs racontaient leurs aventures, les routes qu'ils
 avaient empruntées et le temps qu'ils leur avaient fallu pour arriver à chaque endroit.
 
 ## Page 12
@@ -101,15 +101,15 @@ de personnes qui s'étaient rendues sur place.
 
 ## Page 13
 
-— Mais Mamie, à l'époque il fallait beaucoup de monde pour faire une carte. Dit Fanny d'un ton pensif.
+— Mais Mamie, à l'époque il fallait beaucoup de monde pour faire une carte, dit Fanny d'un ton pensif.
 
 — Bien sûr Fanny, chaque personne apportait une petite mais précieuse information,
-et tous ensemble, ils ont permis de créer des cartes complètes du monde.
+et toutes ensemble, elles ont permis de créer des cartes complètes du monde.
 
 ## Page 14
 
 — Au revoir Mamie ! J'ai beaucoup de recherches à faire sur les cartes.
-— Je suis sûre que tu vas le faire. Répond sa grand-mère en souriant.
+— Je suis sûre que tu vas le faire, répond sa grand-mère en souriant.
 — Sois prudente et préviens-moi quand tu seras rentrée.
 — Bien sûr Mamie !
 
@@ -137,7 +137,7 @@ Maintenant c'est sur la carte !
 
 ## Page 18
 
-— Tu es donc devenu une cartographe numérique ! Dit fièrement sa grand-mère.
+— Tu es donc devenu une cartographe numérique ! dit fièrement sa grand-mère.
 — Je pense que oui, Mamie ! Mais... tu pourrais l'être aussi. Il ne manque pas quelque chose sur la carte ?
 
 — Maintenant que tu le dis... je ne vois pas la salle où je fais de la gym avec mes amies.
@@ -147,7 +147,7 @@ Maintenant c'est sur la carte !
 
 Ensemble, elles ont passé le reste de l'après-midi à ajouter des éléments à la carte. Elles ont même corrigé les petites erreurs qu'elles ont trouvées.
 
-Fanny a aidé sa grand-mère à créer un compte, de sorte qu'elle peut maintenant elle aussi à ajouter des lieux depuis son ordinateur.
+Fanny a aidé sa grand-mère à créer un compte, de sorte qu'elle peut maintenant elle aussi ajouter des lieux depuis son ordinateur.
 
 ## Page 20
 
@@ -168,12 +168,12 @@ La dernière chose qu'elles ont ajoutée est le magasin de bonbons. Êtant là, 
 Prenant les derniers bonbons du sac, Fanny demande :
 — Mamie, pouvons-nous faire d'autres promenades ? Je me suis rendu compte qu'il y avait encore beaucoup de choses à ajouter à la carte.
 
-Sa grand-mère la serrant chaleureusement dans ses bras en lui répond :
+Sa grand-mère, la serrant chaleureusement dans ses bras, lui répond :
 — Bien sûr, quand tu veux, nous sommes des cartographes maintenant !
 
 ## Page 23
 
-Si tu as aimé notre histoire et que tu souhaites également devenir un cartographe, tu peux te rendre sur le site du projet OpenStreetMap (https://openstreetmap.org/) et commencer à ajouter des choses à la carte.
+Si tu as aimé notre histoire et que tu souhaites également devenir une ou un cartographe, tu peux te rendre sur le site du projet OpenStreetMap (https://openstreetmap.org/) et commencer à ajouter des choses à la carte.
 
 Comme ça, tous ensemble nous pourrons avoir une carte du monde actuelle et très précise grâce à nos connaissances locales et à notre collaboration.
 
