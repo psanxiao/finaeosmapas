@@ -141,9 +141,9 @@ Ich habe mir ein Benutzerkonto eingerichtet und kann jetzt Informationen auf der
 
 ## Página 19
 
-Las dos juntas pasan el resto de la tarde añadiendo cosas al mapa. Incluso corrigen algún pequeño error que encuentran.
+Den Rest des Nachmittags verbringen die beiden damit, die Karte zu vervollständigen. Sie korrigieren sogar ein paar kleine Fehler, die sie finden.
 
-Fina ayudó a su abuela a crear una cuenta para ella, así que ahora también podrá seguir añadiendo lugares en su ordenador.
+Fina hat ihrer Großmutter geholfen, ein eigenes Konto einzurichten, sodass sie jetzt selbst am Computer Orte hinzufügen kann.
 
 ## Página 20
 
