@@ -119,12 +119,12 @@ Es heißt OpenStreetMap und wird so beschrieben: „Im OpenStreetMap-Projekt ers
 
 ## Página 16
 
-El siguiente día que visita a su abuela, Fina está muy ilusionada. 
-Quiere llegar cuanto antes para contarle su descubrimiento.  
+Als Fina am nächsten Tag ihre Großmutter besucht, ist sie sehr aufgeregt.
+Sie möchte so schnell wie möglich dorthin, um ihr von ihrer Entdeckung zu erzählen.
 
-— ¡Mira, abuela! Investigando encontré este proyecto. 
-A través de Internet, cualquier persona puede contribuir a crear un mapa del mundo, 
-dibujando los lugares que conoce. ¡Es lo mismo que me contaste de los cartógrafos!
+„Schau mal, Oma! Ich habe ein tolles Projekt gefunden.
+Im Internet kann jeder mithelfen, eine Weltkarte zu erstellen,
+indem man die Orte einträgt, die man kennt. Das ist genau das, was du mir über Kartografen erzählt hast!“
 
 ## Página 17
 
