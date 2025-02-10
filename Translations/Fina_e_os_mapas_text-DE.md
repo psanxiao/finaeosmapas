@@ -154,10 +154,10 @@ Jedes Mal, wenn die beiden einen Weg oder einen wichtigen Ort entdeckten, der no
 
 ## Página 21
 
-Lo último que añadieron fue la tienda de chuches y, de paso, Fina, que es un poco golosa, compró algunas para ir comiendo.
+Das Letzte, was sie hinzufügten, war ein Süßigkeitenladen. Fina, eine kleine Naschkatze, nutzte die Gelegenheit und kaufte sich ein paar Süßigkeiten.
 
-— ¿Y qué pasa con los datos que estamos añadiendo?  
-— Oh, pues verás, abuela. Los datos son libres, cualquiera puede usarlos para lo que necesite, sin pagar ni pedir permiso, solo diciendo de dónde vienen.
+„Und was passiert mit den Daten, die wir hinzufügen?“
+„Guck mal, Oma. Die Daten sind frei, jeder kann sie für alles Mögliche verwenden, ohne dafür bezahlen oder um Erlaubnis fragen zu müssen. Man muss nur angeben, woher die Daten stammen.“
 
 ## Página 22
 
