@@ -77,14 +77,14 @@ Außerdem backt sie die leckersten Kekse!
 
 ## Página 10
 
-— Pero abuela, en este libro hay mapas muy antiguos, y en esas épocas no tenían la tecnología de ahora. 
-¿Cómo hacían los mapas?  
+„Aber Oma, in dem Buch sind ganz alte Karten, und damals gab es die Technik von heute noch nicht.
+Wie wurden diese Karten gemacht?“
 
-— Pues los dibujaban los cartógrafos.  
+„Nun, die Kartografen haben sie gezeichnet.“
 
-— ¿Cómo que los dibujaban? —pregunta Fina asombrada.
+„Was meinst du damit, die Kartografen haben sie gezeichnet?“, fragt Fina erstaunt.
 
-La abuela ríe y comienza a explicarle.
+Oma lacht und beginnt zu erklären.
 
 ## Página 11
 
