@@ -67,8 +67,8 @@ Außerdem backt sie die leckersten Kekse!
 
 ## Página 8
 
-— ¿Qué es eso, abuela? —pregunta Fina, curiosa.  
-— Son libros que traje de las Américas. Traje tantos que no sé dónde ponerlos. Aquí creo que hay uno que te ayudará.
+„Was ist das, Oma?“, fragt Fina neugierig.
+„Das sind Bücher, die ich aus Amerika mitgebracht habe. Ich habe so viele mitgebracht, dass ich gar nicht weiß, wohin damit. Aber ich glaube, hier ist eins, das dir helfen wird.“
 
 ## Página 9
 
