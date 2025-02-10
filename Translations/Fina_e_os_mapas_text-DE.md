@@ -147,10 +147,10 @@ Fina hat ihrer Großmutter geholfen, ein eigenes Konto einzurichten, sodass sie 
 
 ## Página 20
 
-Cuando ya no se les ocurría qué más añadir, deciden salir a dar un paseo y explorar juntas. 
-Fina llevaba su tablet y veía el mapa de OpenStreetMap en ella.
+Als ihnen nichts mehr einfiel, beschlossen sie, gemeinsam einen Spaziergang zu machen und die Gegend zu erkunden.
+Fina hatte ihr Tablet dabei und verglich während des Spaziergangs ihre Umgebung mit der Karte auf OpenStreetMap.
 
-Cuando encontraban algún camino o lugar importante que no estaba, se detenían para añadirlo.
+Jedes Mal, wenn die beiden einen Weg oder einen wichtigen Ort entdeckten, der noch nicht eingezeichnet war, hielten sie an, um ihn hinzuzufügen.
 
 ## Página 21
 
