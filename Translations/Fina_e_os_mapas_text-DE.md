@@ -35,11 +35,11 @@ Ilustraciones: Iria Iglesias
 
 ## Página 4
 
-Fina tiene 12 años. 
+Fina ist 12 Jahre alt.
 
-Le encanta la tecnología y pasar tiempo con la tablet o el ordenador. 
+Sie liebt Technik und verbringt gerne Zeit mit ihrem Tablet oder am Computer.
 
-Pero no los usa solo para jugar, bueno, un poco sí, pero lo que más le gusta es investigar y aprender cosas nuevas.
+Aber sie nutzt diese Geräte nicht nur zum Spielen - na ja, ein bisschen schon - sondern am liebsten, um die Welt zu erkunden und immer wieder neue, spannende Dinge zu lernen.
 
 ## Página 5
 
