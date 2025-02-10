@@ -50,12 +50,13 @@ Uno de los lugares que más le encanta visitar es la casa de su abuela.
 
 ## Página 6
 
-La abuela de Fina vive sola, y ella la visita muy a menudo. 
-Le encanta escuchar historias de cuando su abuela era joven y vivía en las Américas.
+Finas Oma lebt allein, und Fina besucht sie oft.
 
-La abuela de Fina vivió muchas aventuras. 
+Fina liebt es, Geschichten aus der Zeit zu hören, als ihre Oma jung war und in Amerika lebte.
 
-Y además, hace unas galletas riquísimas.
+Finas Oma hat viele aufregende Abenteuer erlebt.
+
+Außerdem backt sie die leckersten Kekse!
 
 ## Página 7
 
