@@ -1,11 +1,11 @@
 ## Couverture
 
-Fanny et les cartes
+Joséphine et les cartes
 À la découverte des cartes collaboratives
 
 ## Crédits
 
-Fanny et les cartes. À la découverte des cartes collaboratives.
+Joséphine et les cartes. À la découverte des cartes collaboratives.
 
 Texte de Pablo Sanxiao
 Illustrations de Iria Iglesias
@@ -27,7 +27,7 @@ Financement public : AMTEGA (Junte de Galice, Espagne)
 
 ## Page 3
 
-Fanny et les cartes
+Joséphine et les cartes
 À la découverte des cartes collaboratives.
 
 Texte de Pablo Sanxiao
@@ -35,7 +35,7 @@ Illustrations de Iria Iglesias
 
 ## Page 4
 
-Fanny a 12 ans.
+Joséphine a 12 ans.
 
 Elle aime la technologie et passer du temps avec sa tablette ou son ordinateur.
 
@@ -43,17 +43,17 @@ Mais elle ne les utilise pas seulement pour jouer, elle le fait un peu, mais ce 
 
 ## Page 5
 
-Fanny se déplace toujours à vélo.
+Joséphine se déplace toujours à vélo.
 L'endroit où elle aime le plus aller est la maison de sa grand-mère.
 
 — Mamie ! Je suis là, il y a des biscuits ?
 
 ## Page 6
 
-La grand-mère de Fanny vit seule, elle lui rend souvent visite.
+La grand-mère de Joséphine vit seule, elle lui rend souvent visite.
 Elle aime entendre les histoires sur l'époque où sa grand-mère était jeune et vivait en Amérique.
 
-La grand-mère de Fanny a vécu de nombreuses aventures.
+La grand-mère de Joséphine a vécu de nombreuses aventures.
 
 De plus, elle fait de délicieux biscuits.
 
@@ -66,12 +66,12 @@ De plus, elle fait de délicieux biscuits.
 
 ## Page 8
 
-— Mamie, qu'est-ce que c'est ? demande Fanny, curieuse.
+— Mamie, qu'est-ce que c'est ? demande Joséphine, curieuse.
 — Ce sont des livres que j'ai ramenés des Amériques. J'en ai ramené tellement que je ne sais pas où les mettre. Je pense qu'il y en a un qui va t'aider.
 
 ## Page 9
 
-— Quel est ce livre, Mamie ? demande Fanny avec des yeux pétillants.
+— Quel est ce livre, Mamie ? demande Joséphine avec des yeux pétillants.
 — C'est un atlas ! Quand j'étais jeune, les cartes ne se trouvaient que dans des livres comme celui-là. Il n'y avait pas d'appareils modernes comme ta tablette.
 
 ## Page 10
@@ -81,7 +81,7 @@ Comment faisait-on les cartes ?
 
 — Eh bien, elles étaient dessinées par des cartographes.
 
-— Comment ça, ils les dessinaient ? demande Fanny étonnée.
+— Comment ça, ils les dessinaient ? demande Joséphine étonnée.
 
 Sa grand-mère rit et commence à lui expliquer.
 
@@ -101,9 +101,9 @@ de personnes qui s'étaient rendues sur place.
 
 ## Page 13
 
-— Mais Mamie, à l'époque il fallait beaucoup de monde pour faire une carte, dit Fanny d'un ton pensif.
+— Mais Mamie, à l'époque il fallait beaucoup de monde pour faire une carte, dit Joséphine d'un ton pensif.
 
-— Bien sûr Fanny, chaque personne apportait une petite mais précieuse information,
+— Bien sûr Joséphine, chaque personne apportait une petite mais précieuse information,
 et toutes ensemble, elles ont permis de créer des cartes complètes du monde.
 
 ## Page 14
@@ -115,12 +115,12 @@ et toutes ensemble, elles ont permis de créer des cartes complètes du monde.
 
 ## Page 15
 
-Une fois rentrée chez elle, Fanny se précipite dans sa chambre pour étudier le sujet des cartes. Un projet attire son attention.
+Une fois rentrée chez elle, Joséphine se précipite dans sa chambre pour étudier le sujet des cartes. Un projet attire son attention.
 Il s'agit d'OpenStreetMap, défini comme « la carte coopérative libre ».
 
 ## Page 16
 
-Le lendemain elle rend à nouveau visite à sa grand-mère. Fanny est très enthousiaste.
+Le lendemain elle rend à nouveau visite à sa grand-mère. Joséphine est très enthousiaste.
 Elle veut arriver le plus vite possible pour lui dire ce qu'elle a découvert.
 
 — Regarde Mamie ! En faisant des recherches, j'ai découvert ce projet.
@@ -147,25 +147,25 @@ Maintenant c'est sur la carte !
 
 Ensemble, elles ont passé le reste de l'après-midi à ajouter des éléments à la carte. Elles ont même corrigé les petites erreurs qu'elles ont trouvées.
 
-Fanny a aidé sa grand-mère à créer un compte, de sorte qu'elle peut maintenant elle aussi ajouter des lieux depuis son ordinateur.
+Joséphine a aidé sa grand-mère à créer un compte, de sorte qu'elle peut maintenant elle aussi ajouter des lieux depuis son ordinateur.
 
 ## Page 20
 
 Lorsqu'elles n'ont plus rien trouvé à ajouter, elles décidèrent d'aller se promener et d'explorer ensemble.
-Fanny a pris sa tablette pour consulter la carte OpenStreetMap.
+Joséphine a pris sa tablette pour consulter la carte OpenStreetMap.
 
 Lorsqu'elles ont trouvé une route ou un lieu important qui manquait, elles se sont arrêtées pour l'ajouter.
 
 ## Page 21
 
-La dernière chose qu'elles ont ajoutée est le magasin de bonbons. Étant là, Fanny qui a un penchant pour les sucreries, en a profité pour en acheter.
+La dernière chose qu'elles ont ajoutée est le magasin de bonbons. Étant là, Joséphine qui a un penchant pour les sucreries, en a profité pour en acheter.
 
 — Et où vont les données que nous ajoutons ?
 — Hé bien Mamie, les données sont libres, tout le monde peut les utiliser pour ce dont ils ont besoin, sans payer ni demander la permission, juste en disant d'où elles viennent.
 
 ## Page 22
 
-Prenant les derniers bonbons du sac, Fanny demande :
+Prenant les derniers bonbons du sac, Joséphine demande :
 — Mamie, pouvons-nous faire d'autres promenades ? Je me suis rendu compte qu'il y avait encore beaucoup de choses à ajouter à la carte.
 
 Sa grand-mère, la serrant chaleureusement dans ses bras, lui répond :
