@@ -72,8 +72,8 @@ Außerdem backt sie die leckersten Kekse!
 
 ## Página 9
 
-— ¿Qué libro es ese, abuela? —pregunta Fina con ojos brillantes.  
-— ¡Es un Atlas! Cuando yo era joven, los mapas solo estaban en libros como este. No había aparatos modernos como tu tablet.
+„Was ist das für ein Buch, Oma?“, fragt Fina mit leuchtenden Augen.
+„Das ist ein Atlas! Als ich ein Kind war, gab es Karten nur in Büchern wie diesem. Moderne Geräte wie dein Tablet gab es damals noch nicht.“
 
 ## Página 10
 
