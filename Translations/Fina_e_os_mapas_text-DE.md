@@ -60,10 +60,10 @@ Außerdem backt sie die leckersten Kekse!
 
 ## Página 7
 
-— ¡Oh, abuela! ¿Qué pasa?  
-— Creo que se ha ido la luz —responde la abuela con voz tranquilizadora.  
-— Vaya... quería buscar en la tablet ese lugar del que hablabas en tu historia, pero se ha quedado sin batería.  
-— No te preocupes, para eso creo que tengo una solución.
+„Oma! Was ist passiert?“
+„Ich glaube, der Strom ist ausgefallen“, erwidert Oma mit beruhigender Stimme.
+„Oh nein! Ich wollte auf dem Tablet den Ort suchen, von dem du in deiner Geschichte erzählt hast, aber der Akku ist leer.“
+„Keine Sorge, ich glaube, ich habe eine Lösung dafür“, antwortet Oma mit einem geheimnisvollen Lächeln.
 
 ## Página 8
 
