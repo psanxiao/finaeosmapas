@@ -94,9 +94,9 @@ welche Wege sie nahmen und wie lange sie brauchten, um an ihr Ziel zu gelangen.
 
 ## Página 12
 
-Después tomaban toda esa información y trataban de hacer mapas del mundo, 
-dibujándolos a mano. En esas épocas, los mapas tenían muchos errores, pero también tenían información muy precisa,
-ya que venía directamente de gente que había estado en esos lugares.
+Dann nahmen die Kartografen all diese Informationen und versuchten, Karten von der Welt zu erstellen,
+indem sie sie von Hand zeichneten. Damals hatten die Karten viele Fehler, aber sie verfügten auch über sehr präzise Informationen,
+weil die Informationen von Menschen stammten, die tatsächlich an diesen Orten gewesen sind.
 
 ## Página 13
 
