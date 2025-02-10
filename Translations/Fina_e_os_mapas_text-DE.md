@@ -43,10 +43,10 @@ Aber sie nutzt diese Geräte nicht nur zum Spielen - na ja, ein bisschen schon -
 
 ## Página 5
 
-Fina va siempre a todas partes en su bicicleta. 
-Uno de los lugares que más le encanta visitar es la casa de su abuela.  
+Fina ist immer und überall mit dem Fahrrad unterwegs.
+Einer ihrer Lieblingsorte ist das Haus ihrer Oma.
 
-— ¡Abuela! Ya estoy aquí, ¿hay galletas?
+„Oma! Ich bin da! Gibt es Kekse?“
 
 ## Página 6
 
