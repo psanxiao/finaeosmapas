@@ -133,11 +133,11 @@ Ich habe mir ein Benutzerkonto eingerichtet und kann jetzt Informationen auf der
 
 ## Página 18
 
-— Entonces, ¡ya eres una cartógrafa digital! —dice la abuela orgullosa.  
-— Pues creo que sí, abuela, pero... ¡Tú también podrías serlo! ¿No echas en falta algo en el mapa?
+„Dann bist du ja jetzt eine digitale Kartografin!“, sagt die Oma stolz.
+„Ich glaube schon, Oma, aber... du könntest auch eine digitale Kartografin sein! Fehlt dir etwas auf der Karte?“
 
-— Ahora que lo dices... no veo el centro donde hago pilates con mis amigas.  
-— ¡Oh, pues vamos a añadirlo ahora mismo, abuela!
+„Jetzt, wo du es sagst... ich finde das Sportstudio nicht, in dem ich mit meinen Freundinnen Pilates mache.“
+„Oh, dann fügen wir es jetzt gleich hinzu, Oma!“
 
 ## Página 19
 
