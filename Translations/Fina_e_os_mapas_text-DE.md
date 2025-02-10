@@ -107,10 +107,10 @@ und alle Informationen zusammen haben es möglich gemacht, eine komplette Weltka
 
 ## Página 14
 
-— ¡Adiós, abuela! Tengo mucho que investigar sobre los mapas.  
-— Estoy segura de que lo harás —responde la abuela con una sonrisa.  
-— Y ve despacio, avísame cuando llegues a casa.  
-— ¡Claro, abuela!
+„Tschüss, Oma! Das war spannend heute. Ich möchte noch viel mehr über Karten lernen.“
+„Das wirst du bestimmt“, antwortet Oma lächelnd.
+„Fahr langsam und sag mir Bescheid, wenn du zu Hause bist.“
+„Natürlich, Oma!“
 
 ## Página 15
 
