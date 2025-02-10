@@ -100,10 +100,10 @@ weil die Informationen von Menschen stammten, die tatsächlich an diesen Orten g
 
 ## Página 13
 
-— Pero abuela, entonces, para hacer un mapa hacía falta mucha gente —dice Fina pensativa. 
+„Aber Oma, dann brauchte man ja ganz viele Menschen, um eine Karte anzufertigen“, sagt Fina nachdenklich.
 
-— Claro, Fina, cada persona aportaba un pequeño, pero valioso fragmento de información, 
-y todo junto permitía crear mapas completos del mundo.
+„Ja, genau, Fina. Jeder hat ein kleines, aber wertvolles Stück Information beigesteuert,
+und alle Informationen zusammen haben es möglich gemacht, eine komplette Weltkarte zu erstellen.“
 
 ## Página 14
 
