@@ -1,37 +1,37 @@
 ## Portada
 
-Fina y los mapas
-Descubriendo los mapas colaborativos
+Fina entdeckt die Kartografie
+Wie aus vielen kleinen Orten eine große Weltkarte entsteht
 
 ## Créditos
 
-Fina y los mapas. Descubriendo los mapas colaborativos.
+Fina entdeckt die Kartografie. Wie aus vielen kleinen Orten eine große Weltkarte entsteht.
 
-del texto: Pablo Sanxiao
-de las ilustraciones: Iria Iglesias
-de esta edición: Asociación GHANDALF
+für den Text: Pablo Sanxiao
+für die Illustrationen: Iria Iglesias
+für diese Ausgabe: Asociación GHANDALF
 
-Esta obra se distribuye bajo licencia
+Dieses Werk wird verbreitet unter der Lizenz
 Creactive Commons 4.0 Internacional,
-con las cláusulas Atribución y Compartir Igual.
+mit den Klauseln Namensnennung und Weitergabe unter gleichen Bedingungen.
 (CC BY-SA 4.0 Internacional)
-El mapa de la portada proviene de openstreetmap.org/copyright
+Die Karte auf der Titelseite stammt von openstreetmap.org/copyright
 
-Puede obtener más información de esta licencia aquí:
+Mehr über diese Lizenz ist hier zu erfahren:
 https://creativecommons.org/licenses/by-sa/4.0/deed.es
 
-Primera edición: Enero 2025
-Ilustración, diseño y maquetación: estudio Gnomo
+Erste Ausgabe: Januar 2025
+Illustration, Design und Layout: Estudio Gnomo
 
-Financiado con Fondos Públicos: AMTEGA (Xunta de Galicia)
+Finanziert mit öffentlichen Mitteln: AMTEGA (Xunta de Galicia)
 
 ## Página 3
 
-Fina y los mapas
-Descubriendo los mapas colaborativos.
+Fina entdeckt die Kartografie
+Wie aus vielen kleinen Orten eine große Weltkarte entsteht
 
-Texto: Pablo Sanxiao
-Ilustraciones: Iria Iglesias
+Text: Pablo Sanxiao
+Illustrationen: Iria Iglesias
 
 ## Página 4
 
