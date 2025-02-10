@@ -161,11 +161,11 @@ Das Letzte, was sie hinzufügten, war ein Süßigkeitenladen. Fina, eine kleine 
 
 ## Página 22
 
-Cogiendo las últimas chuches de la bolsa, Fina pregunta:  
-— ¿Podemos venir más veces de paseo, abuela? Me di cuenta de que todavía queda mucho por añadir al mapa.
+Während sie die letzten Süßigkeiten aus der Tüte fischt, fragt Fina:
+„Können wir noch öfter spazieren gehen, Oma? Ich habe bemerkt, dass noch eine Menge auf der Karte fehlt.“
 
-La abuela le da un cariñoso abrazo y responde:  
-— Claro, siempre que tú quieras. ¡Ahora somos cartógrafas!
+Oma drückt sie liebevoll und antwortet:
+„Natürlich, wann immer du möchtest. Jetzt sind wir Kartografinnen!“
 
 ## Página 23
 
