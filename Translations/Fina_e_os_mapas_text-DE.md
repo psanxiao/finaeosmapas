@@ -169,11 +169,11 @@ Oma drückt sie liebevoll und antwortet:
 
 ## Página 23
 
-Si te gustó nuestra historia y tú también quieres convertirte en una cartógrafa o cartógrafo, 
-puedes entrar en la página web del proyecto OpenStreetMap (https://openstreetmap.org/) y empezar a añadir cosas al mapa. 
+Wenn dir unsere Geschichte gefallen hat und du auch ein Kartograf oder eine Kartografin werden möchtest,
+dann besuche die Website des OpenStreetMap-Projekts (https://openstreetmap.org/) und füge Orte hinzu, die noch fehlen und die du für wichtig hältst.
 
-Así, entre todas las personas, podremos tener un mapa del mundo actual y muy preciso, 
-gracias a nuestro conocimiento local y la colaboración.
+Gemeinsam können wir eine aktuelle, präzise und detaillierte Weltkarte gestalten –
+dank unserer Ortskenntnisse und unserer Teamarbeit.
 
 ## Contraportada
 
