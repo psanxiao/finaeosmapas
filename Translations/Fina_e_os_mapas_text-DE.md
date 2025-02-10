@@ -114,8 +114,8 @@ und alle Informationen zusammen haben es möglich gemacht, eine komplette Weltka
 
 ## Página 15
 
-Al llegar a casa, Fina corre a su habitación para investigar sobre los mapas. Un proyecto llama su atención. 
-Se llama OpenStreetMap y se define como "un mapa del mundo creado por gente como tú y de uso libre".
+Als Fina nach Hause kommt, läuft sie schnell in ihr Zimmer, um mehr über Karten herauszufinden. Ein Projekt erregt auf Anhieb ihre Aufmerksamkeit.
+Es heißt OpenStreetMap und wird so beschrieben: „Im OpenStreetMap-Projekt erschaffen wir gemeinsam eine Karte der Welt. Jede und jeder kann mitmachen.“.
 
 ## Página 16
 
