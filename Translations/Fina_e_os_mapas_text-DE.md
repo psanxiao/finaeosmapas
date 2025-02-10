@@ -88,9 +88,9 @@ Oma lacht und beginnt zu erklären.
 
 ## Página 11
 
-Los cartógrafos recopilaban información de muchos lugares para entender cómo era el mundo. 
-Hablaban con exploradores, comerciantes y marineros que les contaban sus aventuras, 
-las rutas que hacían y el tiempo que les llevaba llegar a cada sitio.
+Die Kartografen sammelten an vielen verschiedenen Orten Informationen, um zu verstehen, wie die Welt aussah.
+Die Kartografen sprachen mit Entdeckern, Händlern und Seeleuten, die ihnen von ihren Abenteuern erzählten,
+welche Wege sie nahmen und wie lange sie brauchten, um an ihr Ziel zu gelangen.
 
 ## Página 12
 
