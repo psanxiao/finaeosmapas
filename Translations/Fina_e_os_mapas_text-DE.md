@@ -128,9 +128,8 @@ indem man die Orte einträgt, die man kennt. Das ist genau das, was du mir über
 
 ## Página 17
 
-— Pero ahora con la tecnología, todo es más sencillo, abuela, mira. 
-Creé mi cuenta de usuario y ya puedo añadir información al mapa, ¿ves? En casa dibujé el edificio del cole, 
-que no estaba, y le puse el nombre. ¡Ahora ya aparece en el mapa!
+„Aber jetzt, mit der heutigen Technik, ist alles viel einfacher, Oma, schau mal.
+Ich habe mir ein Benutzerkonto eingerichtet und kann jetzt Informationen auf der Karte hinzufügen, siehst du? Zu Hause habe ich das Schulgebäude eingezeichnet, das noch nicht auf der Karte war, und ihm einen Namen gegeben. Ein paar Minuten später war es schon auf der Karte eingezeichnet! Hier, sieh selbst!“
 
 ## Página 18
 
