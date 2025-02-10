@@ -177,19 +177,12 @@ dank unserer Ortskenntnisse und unserer Teamarbeit.
 
 ## Contraportada
 
-La asociación GHANDALF
+Der Verein GHANDALF
 
-somos una entidad sin ánimo de lucro. Trabajamos en la divulgación de la cultura libre: Software libre, Hardware Libre
-y Datos Abiertos. Para conseguir este objetivo llevamos a cabo actividades de todo tipo, organizando y colaborando en eventos, 
-talleres, charlas, ... en cualquier sitio en el que se difunda la cultura libre puedes encontrar una "ghandalfeira".
+Wir sind eine gemeinnützige Organisation und setzen uns für die Verbreitung der freien Kultur ein: Freie Software, Freie Hardware und Offene Daten. Um dieses Ziel zu erreichen, organisieren und unterstützen wir verschiedenste Aktivitäten, darunter Veranstaltungen, Workshops und Vorträge. Überall dort, wo die freie Kultur gefördert wird, kannst du eine „ghandalfeira“ finden.  
 
-Como asociación gallega queremos hacer hincapié en la difusión de la cultura libre en nuestra lengua, así como conseguir
-que haya más documentación técnica en gallego, por eso hacemos proyectos de edición y traducción de documentación relacionada
-con el Software Libre en gallego. Puedes echar un vistazo a nuestras publicaciones.
+Als galicischer Verein legen wir besonderen Wert auf die Verbreitung der freien Kultur in unserer Sprache und darauf, dass es mehr technische Dokumentationen auf Galicisch gibt. Deshalb setzen wir Projekte zur Erstellung und Übersetzung von Dokumentationen zu Freier Software auf Galicisch um. Schau gerne in unsere Veröffentlichungen rein!  
 
-También pensamos que es muy importante difundir los valores del Software Libre y la cultura libre entre las personas más
-jóvenes, por eso tratamos de organizar charlas y talleres en centros de enseñanza gallegos.
+Wir sind außerdem der Meinung, dass es entscheidend ist, die Werte der Freien Software und der freien Kultur an die jüngeren Generationen weiterzugeben. Daher bemühen wir uns, Vorträge und Workshops an Schulen in Galicien zu organisieren.  
 
-Si quisieras colaborar en la mejora de la sociedad desde el punto de vista de la tecnología, desde la Asociación GHANDALF
-estaremos encantadas de prestarte toda la ayuda que podamos.
-
+Wenn du dich für die Verbesserung der Gesellschaft aus technologischer Sicht engagieren möchtest, unterstützt dich die Asociación GHANDALF gerne mit allem, was wir bieten können.
