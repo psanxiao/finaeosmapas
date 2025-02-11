@@ -10,6 +10,7 @@ Joséphine et les cartes. À la découverte des cartes collaboratives.
 Texte de Pablo Sanxiao
 Illustrations de Iria Iglesias
 Édition : Asociación GHANDALF, Espagne
+Traduction française par Frédéric Rodrigo, relecture par Cécile Guégan et Vincent Bergeot
 
 Ce travail est distribué sous licence
 Creative Commons 4.0 International,
