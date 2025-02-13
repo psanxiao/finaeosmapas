@@ -39,31 +39,31 @@ Fina ist 12 Jahre alt.
 
 Sie liebt Technik und verbringt gerne Zeit mit ihrem Tablet oder am Computer.
 
-Aber sie nutzt diese Geräte nicht nur zum Spielen - na ja, ein bisschen schon - sondern am liebsten, um die Welt zu erkunden und immer wieder neue, spannende Dinge zu lernen.
+Aber sie nutzt diese Geräte nicht nur zum Spielen – na ja, ein bisschen schon – sondern am liebsten, um die Welt zu erkunden und immer wieder neue, spannende Dinge zu lernen.
 
 ## Página 5
 
-Fina ist immer und überall mit dem Fahrrad unterwegs.
+Fina ist immer und überall mit ihrem Fahrrad unterwegs.
 Einer ihrer Lieblingsorte ist das Haus ihrer Oma.
 
 „Oma! Ich bin da! Gibt es Kekse?“
 
 ## Página 6
 
-Finas Oma lebt allein, und Fina besucht sie oft.
+Finas Oma lebt allein. Fina besucht sie gerne und oft.
 
 Fina liebt es, Geschichten aus der Zeit zu hören, als ihre Oma jung war und in Amerika lebte.
 
-Finas Oma hat viele aufregende Abenteuer erlebt.
+Finas Oma hat schon viele aufregende Abenteuer erlebt.
 
-Außerdem backt sie die leckersten Kekse!
+Außerdem backt sie die leckersten Kekse der Welt!
 
 ## Página 7
 
 „Oma! Was ist passiert?“
 „Ich glaube, der Strom ist ausgefallen“, erwidert Oma mit beruhigender Stimme.
 „Oh nein! Ich wollte auf dem Tablet den Ort suchen, von dem du in deiner Geschichte erzählt hast, aber der Akku ist leer.“
-„Keine Sorge, ich glaube, ich habe eine Lösung dafür“, antwortet Oma mit einem geheimnisvollen Lächeln.
+„Keine Sorge, ich glaube, ich habe eine Lösung dafür“, antwortet Oma lächelnd.
 
 ## Página 8
 
@@ -73,12 +73,12 @@ Außerdem backt sie die leckersten Kekse!
 ## Página 9
 
 „Was ist das für ein Buch, Oma?“, fragt Fina mit leuchtenden Augen.
-„Das ist ein Atlas! Als ich ein Kind war, gab es Karten nur in Büchern wie diesem. Moderne Geräte wie dein Tablet gab es damals noch nicht.“
+„Das ist ein Atlas! Als ich ein Kind war, gab es Landkarten nur in Büchern wie diesem. Moderne Geräte wie dein Tablet gab es damals noch nicht.“
 
 ## Página 10
 
-„Aber Oma, in dem Buch sind ganz alte Karten, und damals gab es die Technik von heute noch nicht.
-Wie wurden diese Karten gemacht?“
+„Aber Oma, in dem Buch sind ganz alte Karten. Damals gab es die heutige Technik ja noch nicht.
+Wie wurden diese Karten denn gemacht?“
 
 „Nun, die Kartografen haben sie gezeichnet.“
 
@@ -89,14 +89,14 @@ Oma lacht und beginnt zu erklären.
 ## Página 11
 
 Die Kartografen sammelten an vielen verschiedenen Orten Informationen, um zu verstehen, wie die Welt aussah.
-Die Kartografen sprachen mit Entdeckern, Händlern und Seeleuten, die ihnen von ihren Abenteuern erzählten,
-welche Wege sie nahmen und wie lange sie brauchten, um an ihr Ziel zu gelangen.
+Sie sprachen mit Entdeckern, Händlern und Seeleuten, die ihnen von ihren Abenteuern erzählten,
+welche Wege sie nahmen und wie lange sie für die Reise brauchten.
 
 ## Página 12
 
 Dann nahmen die Kartografen all diese Informationen und versuchten, Karten von der Welt zu erstellen,
-indem sie sie von Hand zeichneten. Damals hatten die Karten viele Fehler, aber sie verfügten auch über sehr präzise Informationen,
-weil die Informationen von Menschen stammten, die tatsächlich an diesen Orten gewesen sind.
+indem sie sie von Hand zeichneten. Damals hatten die Karten viele Fehler, aber sie enthielten auch sehr genaue Informationen,
+weil die Informationen von Menschen stammten, die tatsächlich an diesen Orten gewesen waren.
 
 ## Página 13
 
@@ -109,18 +109,18 @@ und alle Informationen zusammen haben es möglich gemacht, eine komplette Weltka
 
 „Tschüss, Oma! Das war spannend heute. Ich möchte noch viel mehr über Karten lernen.“
 „Das wirst du bestimmt“, antwortet Oma lächelnd.
-„Fahr langsam und sag mir Bescheid, wenn du zu Hause bist.“
+„Fahr vorsichtig und sag mir Bescheid, wenn du zu Hause bist.“
 „Natürlich, Oma!“
 
 ## Página 15
 
 Als Fina nach Hause kommt, läuft sie schnell in ihr Zimmer, um mehr über Karten herauszufinden. Ein Projekt erregt auf Anhieb ihre Aufmerksamkeit.
-Es heißt OpenStreetMap und wird so beschrieben: „Im OpenStreetMap-Projekt erschaffen wir gemeinsam eine Karte der Welt. Jede und jeder kann mitmachen.“.
+Es heißt OpenStreetMap und wird so beschrieben: ‚Im OpenStreetMap-Projekt erschaffen wir gemeinsam eine Karte der Welt. Jede und jeder kann mitmachen.‘
 
 ## Página 16
 
-Als Fina am nächsten Tag ihre Großmutter besucht, ist sie sehr aufgeregt.
-Sie möchte so schnell wie möglich dorthin, um ihr von ihrer Entdeckung zu erzählen.
+Als Fina am nächsten Tag ihre Oma besucht, ist sie sehr aufgeregt.
+Sie will so schnell wie möglich zu ihr, um ihr von ihrer Entdeckung zu erzählen.
 
 „Schau mal, Oma! Ich habe ein tolles Projekt gefunden.
 Im Internet kann jeder mithelfen, eine Weltkarte zu erstellen,
@@ -129,14 +129,14 @@ indem man die Orte einträgt, die man kennt. Das ist genau das, was du mir über
 ## Página 17
 
 „Aber jetzt, mit der heutigen Technik, ist alles viel einfacher, Oma, schau mal.
-Ich habe mir ein Benutzerkonto eingerichtet und kann jetzt Informationen auf der Karte hinzufügen, siehst du? Zu Hause habe ich das Schulgebäude eingezeichnet, das noch nicht auf der Karte war, und ihm einen Namen gegeben. Ein paar Minuten später war es schon auf der Karte eingezeichnet! Hier, sieh selbst!“
+Ich habe mir ein Benutzerkonto eingerichtet und kann jetzt Informationen auf der Karte hinzufügen, siehst du? Zu Hause habe ich das Schulgebäude hinzugefügt, das noch nicht auf der Karte war, und ihm einen Namen gegeben. Ein paar Minuten später war es schon auf der Karte eingezeichnet! Hier, sieh selbst!“
 
 ## Página 18
 
 „Dann bist du ja jetzt eine digitale Kartografin!“, sagt die Oma stolz.
-„Ich glaube schon, Oma, aber... du könntest auch eine digitale Kartografin sein! Fehlt dir etwas auf der Karte?“
+„Ich glaube schon, Oma, aber – du könntest auch eine digitale Kartografin sein! Fehlt dir nicht etwas auf der Karte?“
 
-„Jetzt, wo du es sagst... ich finde das Sportstudio nicht, in dem ich mit meinen Freundinnen Pilates mache.“
+„Jetzt, wo du es sagst – ich finde das Sportstudio nicht, in dem ich mit meinen Freundinnen Pilates mache.“
 „Oh, dann fügen wir es jetzt gleich hinzu, Oma!“
 
 ## Página 19
@@ -147,24 +147,24 @@ Fina hat ihrer Großmutter geholfen, ein eigenes Konto einzurichten, sodass sie 
 
 ## Página 20
 
-Als ihnen nichts mehr einfiel, beschlossen sie, gemeinsam einen Spaziergang zu machen und die Gegend zu erkunden.
-Fina hatte ihr Tablet dabei und verglich während des Spaziergangs ihre Umgebung mit der Karte auf OpenStreetMap.
+Als ihnen nichts mehr einfällt, beschließen sie, gemeinsam spazieren zu gehen und die Gegend zu erkunden.
+Fina hat ihr Tablet dabei und vergleicht während des Spaziergangs die Umgebung mit der Karte auf OpenStreetMap.
 
-Jedes Mal, wenn die beiden einen Weg oder einen wichtigen Ort entdeckten, der noch nicht eingezeichnet war, hielten sie an, um ihn hinzuzufügen.
+Jedes Mal, wenn die beiden einen Weg oder einen wichtigen Ort entdecken, der noch nicht eingezeichnet ist, halten sie an, um ihn hinzuzufügen.
 
 ## Página 21
 
-Das Letzte, was sie hinzufügten, war ein Süßigkeitenladen. Fina, eine kleine Naschkatze, nutzte die Gelegenheit und kaufte sich ein paar Süßigkeiten.
+Zuletzt fügen sie einen Süßigkeitenladen ein. Fina, eine kleine Naschkatze, nutzt die Gelegenheit und kauft sich ein paar Süßigkeiten.
 
 „Und was passiert mit den Daten, die wir hinzufügen?“
-„Guck mal, Oma. Die Daten sind frei, jeder kann sie für alles Mögliche verwenden, ohne dafür bezahlen oder um Erlaubnis fragen zu müssen. Man muss nur angeben, woher die Daten stammen.“
+„Guck mal, Oma. Die Daten sind frei. Jeder kann sie für alles Mögliche nutzen, ohne dafür zu bezahlen oder um Erlaubnis zu fragen. Man muss nur angeben, woher die Daten stammen.“
 
 ## Página 22
 
 Während sie die letzten Süßigkeiten aus der Tüte fischt, fragt Fina:
-„Können wir noch öfter spazieren gehen, Oma? Ich habe bemerkt, dass noch eine Menge auf der Karte fehlt.“
+„Können wir noch öfter spazieren gehen, Oma? Ich habe bemerkt, dass noch eine ganze Menge Dinge auf der Karte fehlen.“
 
-Oma drückt sie liebevoll und antwortet:
+Oma drückt sie liebevoll an sich und antwortet:
 „Natürlich, wann immer du möchtest. Jetzt sind wir Kartografinnen!“
 
 ## Página 23
@@ -172,7 +172,7 @@ Oma drückt sie liebevoll und antwortet:
 Wenn dir unsere Geschichte gefallen hat und du auch ein Kartograf oder eine Kartografin werden möchtest,
 dann besuche die Website des OpenStreetMap-Projekts (https://openstreetmap.org/) und füge Orte hinzu, die noch fehlen und die du für wichtig hältst.
 
-Gemeinsam können wir eine aktuelle, präzise und detaillierte Weltkarte gestalten –
+Gemeinsam können wir eine aktuelle, genaue und detaillierte Weltkarte gestalten –
 dank unserer Ortskenntnisse und unserer Teamarbeit.
 
 ## Contraportada
