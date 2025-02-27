@@ -12,7 +12,7 @@ de las ilustraciones: Iria Iglesias
 de esta edición: Asociación GHANDALF
 
 Esta obra se distribuye bajo licencia
-Creactive Commons 4.0 Internacional,
+Creative Commons 4.0 Internacional,
 con las cláusulas Atribución y Compartir Igual.
 (CC BY-SA 4.0 Internacional)
 El mapa de la portada proviene de openstreetmap.org/copyright
