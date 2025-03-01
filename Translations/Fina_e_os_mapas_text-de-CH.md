@@ -10,18 +10,13 @@ Fina und die Karten. Entdecke die kollaborativen Karten.
 Text: Pablo Sanxiao
 Illustrationen: Iria Iglesias
 Herausgeberin dieser Publikation: Asociación GHANDALF
+Übersetzung in die deutsche Sprache (Schweiz): Stefan F. Keller
 
-Dieses Werk ist unter der Lizenz
-Creative Commons 4.0 International,
-mit den Klauseln Namensnennung und Weitergabe unter gleichen Bedingungen 
-(CC BY-SA 4.0 International).
+Dieses Werk ist unter der Lizenz Creative Commons 4.0 International, mit den Klauseln Namensnennung und Weitergabe unter gleichen Bedingungen (CC BY-SA 4.0 International).
+Weitere Informationen zu dieser Lizenz findest du hier: https://creativecommons.org/licenses/by-sa/4.0/deed.de
 Die Karte auf der Titelseite stammt von openstreetmap.org/copyright
 
-Weitere Informationen zu dieser Lizenz findest du hier:
-https://creativecommons.org/licenses/by-sa/4.0/deed.es
-
-Erste Ausgabe: Januar 2025 (Originalausgabe in galicischer Sprache)
-Illustration, Design und Layout: Estudio Gnomo
+Erste Ausgabe: Januar 2025 (Originalausgabe in galicischer Sprache). Illustration, Design und Layout: Estudio Gnomo
 
 Finanziert mit öffentlichen Mitteln: AMTEGA (Xunta de Galicia)
 
@@ -35,25 +30,23 @@ Illustrationen: Iria Iglesias
 
 ## Seite 4
 
-Fina ist 12 Jahre alt. 
+Fina ist 12 Jahre alt.
 
-Sie liebt Technik und verbringt gerne Zeit mit ihrem Tablet oder Computer. 
+Sie liebt Technik und verbringt gerne Zeit mit ihrem Tablet oder Computer.
 
 Aber sie nutzt sie nicht nur zum Spielen, na ja, ein bisschen schon, aber am liebsten forscht sie und lernt neue Dinge.
 
 ## Seite 5
 
-Fina ist immer mit dem Fahrrad unterwegs. 
-Einer der Orte, den sie am liebsten besucht, ist das Haus ihrer Grossmutter.  
+Fina ist immer mit dem Fahrrad unterwegs. Einer der Orte, die sie am liebsten besucht, ist das Haus ihrer Grossmutter.
 
-"Grossmutter! Ich bin da, hast du Guetzli?
+— "Grossmutter! Ich bin da, hast du Guetzli?
 
 ## Seite 6
 
-Finas Grossmutter lebt allein und Fina besucht sie sehr oft. 
-Sie liebt es, Geschichten darüber zu hören, wie ihre Grossmutter als junge Frau in Amerika lebte.
+Finas Grossmutter lebt allein und Fina besucht sie sehr oft. Sie liebt es, Geschichten darüber zu hören, wie ihre Grossmutter als junge Frau in Amerika lebte.
 
-Finas Grossmutter hat viele Abenteuer erlebt. 
+Finas Grossmutter hat viele Abenteuer erlebt.
 
 Und ausserdem macht sie leckere Guetzli.
 
@@ -61,7 +54,7 @@ Und ausserdem macht sie leckere Guetzli.
 
 — Oh, Grossmutter! Was ist los?  
 — Ich glaube, der Strom ist ausgefallen — antwortet die Grossmutter mit sanfter Stimme.  
-— Ach so... Ich wollte auf dem Tablet nach dem Ort suchen, von dem du in deiner Geschichte gesprochen hast, aber der Akku ist leer.  
+— Ach so… Ich wollte auf dem Tablet nach dem Ort suchen, von dem du in deiner Geschichte gesprochen hast, aber der Akku ist leer.  
 — Keine Sorge, dafür habe ich wohl eine Lösung.
 
 ## Seite 8
@@ -76,8 +69,7 @@ Und ausserdem macht sie leckere Guetzli.
 
 ## Seite 10
 
-— Aber Grossmutter, in diesem Buch sind sehr alte Karten, und damals gab es noch nicht die Technologie von heute. 
-Wie haben sie die Karten gemacht?  
+— Aber Grossmutter, in diesem Buch sind sehr alte Karten, und damals gab es noch nicht die Technologie von heute. Wie haben sie die Karten gemacht?  
 
 — Die Kartografen haben sie gezeichnet.  
 
@@ -93,22 +85,21 @@ die Reisen, die sie nahmen, und wie lange sie brauchten, um an jeden Ort zu gela
 
 ## Seite 12
 
-Dann nahmen sie all diese Informationen und versuchten, Karten der Welt zu erstellen, 
-indem sie sie von Hand zeichneten. Zu dieser Zeit waren die Karten sehr fehlerhaft, aber sie enthielten auch sehr genaue Informationen,
+Dann nahmen sie all diese Informationen und versuchten, Karten der Welt zu erstellen, indem sie sie von Hand zeichneten.
+Zu dieser Zeit waren die Karten sehr fehlerhaft, aber sie enthielten auch sehr genaue Informationen,
 da sie direkt von Menschen stammten, die an diesen Orten gewesen waren.
 
 ## Seite 13
 
-"Aber Grossmutter, um eine Karte zu erstellen, brauchte es damals viele Menschen“, sagt Fina nachdenklich. 
+— Aber Grossmutter, um eine Karte zu erstellen, brauchte es damals viele Menschen, sagt Fina nachdenklich. 
 
-"Natürlich, Fina, jede Person lieferte einen kleinen, aber wertvollen Informationsbrocken, 
-und alles zusammen ermöglichte es, vollständige Karten der Welt zu erstellen.
+— Natürlich, Fina, jede Person lieferte einen kleinen, aber wertvollen Informationsbrocken, und alles zusammen ermöglichte es, vollständige Karten der Welt zu erstellen.
 
 ## Seite 14
 
 — Tschüss, Grossmutter! Ich muss noch viel über die Karten herausfinden.  
 — Ich bin sicher, dass du das schaffst — antwortet Grossmutter mit einem Lächeln.  
-— Und geh langsam, sag Bescheid, wenn du zu Hause ankommst.  
+— Und fahr langsam, sag Bescheid, wenn du zu Hause bist.  
 — Klar, Grossmutter!
 
 ## Seite 15
@@ -118,12 +109,11 @@ Es heisst OpenStreetMap und wird als "eine von Menschen wie dir erstellte und fr
 
 ## Seite 16
 
-Am nächsten Tag, als Fina ihre Grossmutter besucht, ist sie sehr aufgeregt. 
-Sie möchte so schnell wie möglich dort ankommen, um ihr von ihrer Entdeckung zu erzählen.  
+Am nächsten Tag, als sie ihre Grossmutter besucht, ist Fina sehr aufgeregt. 
+Sie möchte so schnell wie möglich von ihrer Entdeckung erzählen.  
 
 — Schau, Grossmutter! Bei meinen Recherchen bin ich auf dieses Projekt gestossen. 
-Über das Internet kann jeder dazu beitragen, eine Weltkarte zu erstellen, indem er 
-die Orte zeichnet, die er kennt. Das ist dasselbe, was du mir über Kartografen erzählt hast!
+Über das Internet kann jeder dazu beitragen, eine Weltkarte zu erstellen, indem er die Orte zeichnet, die er kennt. Das ist dasselbe, was du mir über Kartografen erzählt hast!
 
 ## Seite 17
 
@@ -133,10 +123,10 @@ das nicht da war, und habe ihm einen Namen gegeben. Jetzt erscheint es auf der K
 
 ## Seite 18
 
-– Du bist also jetzt eine digitale Kartografin! – sagt Grossmutter stolz.  
-– Ich glaube schon, Grossmutter, aber … du könntest es auch sein! Fehlt dir nicht etwas auf der Karte?
+– Dann bist du jetzt eine digitale Kartografin! – sagt Grossmutter stolz.  
+– Ich glaube schon, Grossmutter, aber… du könntest es auch sein! Fehlt dir nicht etwas auf der Karte?
 
-— Jetzt, wo du es sagst... Ich sehe nicht das Zentrum, in dem ich mit meinen Freundinnen Pilates mache.  
+— Jetzt, wo du es sagst… Ich sehe nicht das Zentrum, in dem ich mit meinen Freundinnen Pilates mache.  
 — Oh, dann fügen wir es gleich hinzu, Grossmutter!
 
 ## Seite 19
@@ -169,26 +159,24 @@ Die Grossmutter umarmt sie liebevoll und antwortet:
 
 ## Seite 23
 
-Wenn dir unsere Geschichte gefallen hat und du auch Kartograf oder Kartografin werden möchtest, 
-kannst du die Website des OpenStreetMap-Projekts (https://openstreetmap.org/) besuchen und damit beginnen, der Karte Dinge hinzuzufügen. 
+Wenn dir unsere Geschichte gefallen hat und du auch Kartograf oder Kartografin werden möchtest, kannst du die Website des OpenStreetMap-Projekts (https://openstreetmap.org/) besuchen und damit beginnen, der Karte Dinge hinzuzufügen. 
 
-So können wir alle gemeinsam eine sehr genaue Karte der heutigen Welt erstellen, 
-dank unseres lokalen Wissens und unserer Zusammenarbeit.
+So können wir alle gemeinsam eine sehr genaue Karte der heutigen Welt erstellen, dank unseres lokalen Wissens und unserer Zusammenarbeit.
 
 ## Rückseite
 
 Die Vereinigung GHANDALF
 
-ist eine gemeinnützige Organisation. Wir arbeiten an der Verbreitung der freien Kultur: Freie Software, Freie Hardware
+ist eine gemeinnützige Organisation. Wir arbeiten an der Verbreitung der freien Kultur: Freie Software, freie Hardware
 und offene Daten. Um dieses Ziel zu erreichen, führen wir Aktivitäten aller Art durch, organisieren und beteiligen uns an Veranstaltungen, 
-Workshops, Vorträgen, ... überall dort, wo freie Kultur verbreitet wird, kannst du eine "Ghandalf-Veranstaltung" finden.
+Workshops, Vorträgen, … überall dort, wo freie Kultur verbreitet wird, kannst du eine "Ghandalf-Veranstaltung" finden.
 
 Als galicischer Verein möchten wir die Verbreitung der freien Kultur in unserer Sprache fördern und
 mehr technische Dokumentation auf Galicisch erreichen. Deshalb führen wir Projekte zur Veröffentlichung und Übersetzung von Dokumentationen im Zusammenhang
 mit freier Software auf Galicisch durch. Du kannst einen Blick auf unsere Veröffentlichungen werfen.
 
-Wir halten es auch für sehr wichtig, die Werte der freien Software und der freien Kultur unter den Jüngeren zu verbreiten
-jüngeren Menschen zu verbreiten, weshalb wir versuchen, Vorträge und Workshops in galicischen Bildungseinrichtungen zu organisieren.
+Wir halten es auch für sehr wichtig, die Werte der freien Software und der freien Kultur unter jüngeren Menschen zu verbreiten, 
+weshalb wir versuchen, Vorträge und Workshops in galicischen Bildungseinrichtungen zu organisieren.
 
 Wenn du aus technologischer Sicht an der Verbesserung der Gesellschaft mitwirken möchtest,
 werden wir von der GHANDALF-Vereinigung dir gerne jede uns mögliche Hilfe zukommen lassen.
