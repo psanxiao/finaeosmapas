@@ -46,7 +46,7 @@ Però no els fa servir per jugar, bé, una mica sí, però el que més li agrada
 La Fina va sempre a tot arreu amb la seva bicicleta.
 Un dels llocs que més li encanta visitar és la casa de la seva àvia.
 
-— Àvia! Ja sóc aquí, hi ha galetes?
+— Àvia! Ja soc aquí, hi ha galetes?
 
 ## Pàgina 6
 
@@ -56,25 +56,25 @@ L'àvia de la Fina ha viscut moltes aventures. I, a més, fa unes galetes molt b
 
 ## Pàgina 7
 
-— Oh! Àvia, què ha passat? — Crec que ha hagut una apagada — respon l'àvia amb veu tranquil·litzadora. 
-— Vaja... doncs volia cercar ara a la tauleta aquell lloc del qual em vas parlar a la teva història, però s'ha quedat sense bateria.  
+— Oh! Àvia, què ha passat? —Crec que hi ha hagut una apagada— respon l'àvia amb veu tranquil·litzadora. 
+— Vaja... doncs volia cercar ara a la tauleta aquell lloc del qual em vas parlar a la teva història, però s'ha quedat sense bateria.
 — No et preocupis, per a això crec que tinc una solució.
 
 ## Pàgina 8
 
-— Què és això, àvia? — pregunta la Fina encuriosida.  
+— Què és això, àvia? —pregunta la Fina encuriosida.  
 — Són llibres que vaig portar de les Amèriques. En vaig portar tants que no sé on posar-los. Aquí crec que n'hi ha un que t'ajudarà.
 
 ## Pàgina 9
 
-— Quin llibre és aquest, àvia? — pregunta la Fina amb ulls brillants.  
+— Quin llibre és aquest, àvia? —pregunta la Fina amb ulls brillants.
 — És un atles! Quan jo era jove, els mapes només es trobaven en llibres com aquest. No hi havia aparells moderns com la teva tauleta.
 
 ## Pàgina 10
 
 — Però àvia, en aquest llibre hi ha mapes molt antics, i en aquelles èpoques no hi havia la tecnologia d'ara. Com es feien els mapes?
-— Doncs els dibuixaven els cartògrafs.  
-— Com que els dibuixaven? — pregunta la Fina sorpresa.
+— Doncs els dibuixaven els cartògrafs.
+— Com que els dibuixaven? —pregunta la Fina sorpresa.
 L'àvia riu i l'hi comença a explicar.
 
 ## Pàgina 11
@@ -87,14 +87,14 @@ Després recollien tota aquesta informació i intentaven fer mapes del món, dib
 
 ## Pàgina 13
 
-— Però àvia, llavors, per fer un mapa abans feia falta molta gent — diu la Fina pensativa.
+— Però àvia, llavors, per fer un mapa abans feia falta molta gent— diu la Fina pensativa.
 
 — És clar, Fina, cada persona aportava un trosset petit però molt valuós d'informació, i tot plegat permetia crear mapes complets del món.
 
 ## Pàgina 14
 
-— Adéu, àvia! He d'investigar sobre els mapes.
-— Estic segura que ho faràs — respon l'àvia amb un somriure.  
+— Adeu, àvia! He d'investigar sobre els mapes.
+— Estic segura que ho faràs —respon l'àvia amb un somriure. 
 — I ves a poc a poc, avisa'm quan arribis a casa.
 — Sí, àvia!
 
@@ -104,9 +104,9 @@ En arribar a casa, la Fina corre cap a la seva habitació per investigar sobre e
 
 ## Pàgina 16
 
-L'endemà, quan va a veure la seva àvia, la Fina, està molt il·lusionada. Vol arribar com més aviat millor per explicar-li el seu descobriment. 
+L'endemà, quan va a veure la seva àvia, la Fina, està molt il·lusionada. Vol arribar com més aviat millor per explicar-li el seu descobriment.
 
-— Mira, àvia! Investigant he trobat aquest projecte. 
+— Mira, àvia! Investigant he trobat aquest projecte.
 A través d'Internet qualsevol persona pot contribuir a crear un mapa del món, dibuixant els llocs que coneix. És el mateix que m'explicaves dels cartògrafs!
 
 ## Pàgina 17
@@ -115,7 +115,7 @@ A través d'Internet qualsevol persona pot contribuir a crear un mapa del món, 
 
 ## Pàgina 18
 
-— Llavors, ja ets una cartògrafa digital! — diu l'àvia orgullosa.
+— Llavors, ja ets una cartògrafa digital! —diu l'àvia orgullosa.
 — Doncs em sembla que sí, àvia, però... tu també ho pots ser. No trobes a faltar res al mapa?
 — Doncs ara que ho dius... no veig el centre on faig pilates amb les meves amigues.
 — Oh, doncs afegim-lo ara mateix, àvia!
@@ -141,9 +141,9 @@ El darrer que van afegir va ser la botiga de llaminadures, i de passada, la Fina
 
 ## Pàgina 22
 
-Agafant les darreres llaminadures de la bossa, la Fina pregunta: — Podem sortir més vegades a passejar, àvia? Me n'he adonat que encara queda molt per afegir al mapa.
+Agafant les darreres llaminadures de la bossa, la Fina pregunta: —Podem sortir més vegades a passejar, àvia? M'he adonat que encara queda molt per afegir al mapa.
 
-L'àvia li fa una abraçada afectuosa i respon: — És clar, sempre que tu vulguis, ara som cartògrafes!
+L'àvia li fa una abraçada afectuosa i respon: —És clar, sempre que tu vulguis, ara som cartògrafes!
 
 ## Pàgina 23
 
