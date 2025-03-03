@@ -12,7 +12,7 @@ für die Illustrationen: Iria Iglesias
 für diese Ausgabe: Asociación GHANDALF
 
 Dieses Werk wird verbreitet unter der Lizenz
-Creactive Commons 4.0 Internacional,
+Creative Commons 4.0 Internacional,
 mit den Klauseln Namensnennung und Weitergabe unter gleichen Bedingungen.
 (CC BY-SA 4.0 Internacional)
 Die Karte auf der Titelseite stammt von openstreetmap.org/copyright
