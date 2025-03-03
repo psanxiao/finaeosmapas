@@ -87,7 +87,7 @@ Després recollien tota aquesta informació i intentaven fer mapes del món, dib
 
 ## Pàgina 13
 
-— Però àvia, llavors, per fer un mapa abans feia falta molta gent — diu la Fina pensativa.
+— Però àvia, llavors, per fer un mapa abans feia falta molta gent —diu la Fina pensativa.
 
 — És clar, Fina, cada persona aportava un trosset petit però molt valuós d'informació, i tot plegat permetia crear mapes complets del món.
 
