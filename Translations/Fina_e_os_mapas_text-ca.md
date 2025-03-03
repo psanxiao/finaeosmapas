@@ -100,7 +100,7 @@ Després recollien tota aquesta informació i intentaven fer mapes del món, dib
 
 ## Pàgina 15
 
-En arribar a casa, la Fina corre cap a la seva habitació per investigar sobre els mapes. Un projecte crida la seva atenció. S'anomena OpenStreetMap i es defineix com "un mapa del món, creat per gent com tu i d'ús lliure".
+En arribar a casa, la Fina corre cap a la seva habitació per investigar sobre els mapes. Un projecte crida la seva atenció. S'anomena OpenStreetMap i es defineix com «un mapa del món, creat per gent com tu i d'ús lliure».
 
 ## Pàgina 16
 
