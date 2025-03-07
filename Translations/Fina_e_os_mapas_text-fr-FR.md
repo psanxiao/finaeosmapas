@@ -45,12 +45,12 @@ Joséphine a 12 ans.
 
 Elle aime la technologie et passer du temps sur sa tablette ou son ordinateur.
 
-Elle ne les utilise pas uniquement pour jouer, ce qu'elle aime le plus c'est découvrir, apprendre de nouvelles choses.
+Elle ne les utilise pas uniquement pour jouer, ce qu'elle aime le plus, c'est découvrir et apprendre de nouvelles choses.
 
 ## Page 5
 
 Joséphine se déplace toujours à vélo.
-Ce qu'elle aime par dessus-tout c'est de se rendre chez sa grand-mère.
+L'endroit où elle aime le plus aller est chez sa grand-mère.
 
 — Mamie ! Je suis là, il y a des biscuits ?
 
@@ -69,7 +69,7 @@ De plus, elle fait de délicieux biscuits.
 
 — Rien d'inquiétant, je crois que c'est une simple panne de courant, répond sa grand-mère d'une voix rassurante.
 
-— Zut… je voulais chercher sur ma tablette l'endroit dont tu parlais dans ton histoire, mais la batterie est vide.
+— Zut… je voulais chercher sur ma tablette l'endroit dont tu me parlais dans ton histoire, mais la batterie est vide.
 
 — Ce n'est pas grave, je crois que j'ai la solution.
 
@@ -107,15 +107,15 @@ Ensuite, ils réunissaient toutes ces informations pour essayer d'en faire des c
 
 — Mais Mamie, à l'époque il fallait beaucoup de monde pour faire une carte, dit Joséphine d'un ton pensif.
 
-— Bien sûr Joséphine, chaque personne apportait une information simple mais précieuse, et toutes ensemble, elles ont permis de créer des cartes complètes du monde.
+— Bien sûr, Joséphine, chaque personne apportait une information simple mais précieuse, et toutes ensemble, elles ont permis de créer des cartes complètes du monde.
 
 ## Page 14
 
-— Au revoir Mamie ! J'ai beaucoup de recherches à faire sur les cartes.
+— Au revoir, Mamie ! J'ai beaucoup de recherches à faire sur les cartes.
 
 — Je n'en doute pas une seconde, répond sa grand-mère en souriant. Sois prudente et préviens-moi quand tu seras rentrée.
 
-— Bien sûr Mamie !
+— Bien sûr, Mamie !
 
 ## Page 15
 
@@ -123,7 +123,7 @@ Une fois rentrée chez elle, Joséphine se précipite dans sa chambre pour étud
 Un projet attire son attention.
 
 Il s'agit d'OpenStreetMap,
-défini comme « la carte coopérative libre ».
+« la carte coopérative libre ».
 
 ## Page 16
 
@@ -131,8 +131,8 @@ Le lendemain elle rend à nouveau visite à sa grand-mère. Joséphine est très
 Elle veut arriver le plus vite possible pour lui dire ce qu'elle a découvert.
 
 — Regarde Mamie ! En faisant des recherches, j'ai découvert ce projet.
-Grâce à Internet, tout le monde peut contribuer à la création d'une carte du monde en dessinant les lieux qu'il connaît.
-C'est la même chose que ce que tu m'as racontée à propos des cartographes !
+Grâce à Internet, tout le monde peut participer à la création d'une carte du monde en dessinant les lieux qu'il connaît.
+C'est la même chose dont tu m'as parlé à propos des cartographes !
 
 ## Page 17
 
@@ -160,7 +160,7 @@ Joséphine aide sa grand-mère à se créer un compte, de sorte qu'elle peut mai
 
 ## Page 20
 
-Lorsqu'elles ne trouvent plus rien à ajouter, elles décident d'aller se promener et d'explorer ensemble.
+Lorsqu'elles ne trouvent plus rien à ajouter, elles décident d'aller se promener et d'explorer la ville ensemble.
 Joséphine prend sa tablette pour consulter la carte OpenStreetMap.
 
 Lorsqu'elles remarquent une route ou un lieu important qui manque, elles s'arrêtent pour l'ajouter.
@@ -177,7 +177,7 @@ La dernière chose qu'elles renseignent est un magasin de bonbons. Joséphine, q
 
 Prenant les derniers bonbons du sac, Joséphine demande :
 
-— Mamie, pouvons-nous faire d'autres promenades ? Je me suis rendu compte qu'il y avait encore beaucoup de choses à ajouter sur la carte.
+— Mamie, on pourra faire d'autres promenades ? Je me suis rendu compte qu'il y avait encore beaucoup de choses à ajouter sur la carte.
 
 Sa grand-mère, la serrant chaleureusement dans ses bras, lui répond :
 
