@@ -12,7 +12,7 @@ Illustrationen: Iria Iglesias
 Herausgeberin dieser Publikation: Asociación GHANDALF
 Übersetzung in die deutsche Sprache (Schweiz): Stefan F. Keller
 
-Dieses Werk ist unter der Lizenz Creative Commons 4.0 International, mit den Klauseln Namensnennung und Weitergabe unter gleichen Bedingungen (CC BY-SA 4.0 International).
+Dieses Werk steht unter der Lizenz Creative Commons 4.0 International, mit den Klauseln Namensnennung und Weitergabe unter gleichen Bedingungen (CC BY-SA 4.0 International).
 Weitere Informationen zu dieser Lizenz findest du hier: https://creativecommons.org/licenses/by-sa/4.0/deed.de
 Die Karte auf der Titelseite stammt von openstreetmap.org/copyright
 
@@ -38,17 +38,17 @@ Aber sie nutzt sie nicht nur zum Spielen, na ja, ein bisschen schon, aber am lie
 
 ## Seite 5
 
-Fina ist immer mit dem Fahrrad unterwegs. Einer der Orte, die sie am liebsten besucht, ist das Haus ihrer Grossmutter.
+Fina ist immer mit dem Velo unterwegs. Einer der Orte, die sie am liebsten besucht, ist das Haus ihrer Grossmutter.
 
 — "Grossmutter! Ich bin da, hast du Guetzli?
 
 ## Seite 6
 
-Finas Grossmutter lebt allein und Fina besucht sie sehr oft. Sie liebt es, Geschichten darüber zu hören, wie ihre Grossmutter als junge Frau in Amerika lebte.
+Finas Grossmutter lebt allein, und Fina besucht sie sehr oft. Fina liebt es, Geschichten darüber zu hören, wie ihre Grossmutter als junge Frau in Amerika lebte.
 
 Finas Grossmutter hat viele Abenteuer erlebt.
 
-Und ausserdem macht sie leckere Guetzli.
+Und ausserdem macht sie feine Guetzli.
 
 ## Seite 7
 
@@ -69,7 +69,7 @@ Und ausserdem macht sie leckere Guetzli.
 
 ## Seite 10
 
-— Aber Grossmutter, in diesem Buch sind sehr alte Karten, und damals gab es noch nicht die Technologie von heute. Wie haben sie die Karten gemacht?  
+— Aber Grossmutter, in diesem Buch sind sehr alte Karten, und damals gab es noch nicht die Technologie von heute. Wie haben sie denn die Karten gemacht?  
 
 — Die Kartografen haben sie gezeichnet.  
 
@@ -81,7 +81,7 @@ Die Grossmutter lacht und beginnt zu erklären.
 
 Die Kartografen sammelten Informationen aus vielen Orten, um zu verstehen, wie die Welt aussah. 
 Sie sprachen mit Entdeckern, Händlern und Seeleuten, die ihnen von ihren Abenteuern erzählten, 
-die Reisen, die sie nahmen, und wie lange sie brauchten, um an jeden Ort zu gelangen.
+die Reisen, die sie unternahmen, und wie lange sie brauchten, um an jeden Ort zu gelangen.
 
 ## Seite 12
 
@@ -109,16 +109,16 @@ Es heisst OpenStreetMap und wird als "eine von Menschen wie dir erstellte und fr
 
 ## Seite 16
 
-Am nächsten Tag, als sie ihre Grossmutter besucht, ist Fina sehr aufgeregt. 
+Am nächsten Tag, als sie wieder ihre Grossmutter besucht, ist Fina sehr aufgeregt. 
 Sie möchte so schnell wie möglich von ihrer Entdeckung erzählen.  
 
 — Schau, Grossmutter! Bei meinen Recherchen bin ich auf dieses Projekt gestossen. 
-Über das Internet kann jeder dazu beitragen, eine Weltkarte zu erstellen, indem er die Orte zeichnet, die er kennt. Das ist dasselbe, was du mir über Kartografen erzählt hast!
+Über das Internet kann jeder dazu beitragen, eine Weltkarte zu erstellen, indem er die Orte zeichnet, die er kennt. Das ist dasselbe, wie das, was du mir über die alten Kartografen erzählt hast!
 
 ## Seite 17
 
 — Aber jetzt ist mit der Technologie alles einfacher, Grossmutter, schau. 
-Ich habe mein Benutzerkonto erstellt und kann jetzt Informationen zur Karte hinzufügen, siehst du? Zu Hause habe ich das Schulgebäude gezeichnet, 
+Ich habe mein Benutzerkonto erstellt und kann jetzt Informationen zur Karte hinzufügen, siehst du? Zu Hause habe ich das Schulgebäude eingezeichnet, 
 das nicht da war, und habe ihm einen Namen gegeben. Jetzt erscheint es auf der Karte!
 
 ## Seite 18
@@ -126,7 +126,7 @@ das nicht da war, und habe ihm einen Namen gegeben. Jetzt erscheint es auf der K
 – Dann bist du jetzt eine digitale Kartografin! – sagt Grossmutter stolz.  
 – Ich glaube schon, Grossmutter, aber… du könntest es auch sein! Fehlt dir nicht etwas auf der Karte?
 
-— Jetzt, wo du es sagst… Ich sehe nicht das Zentrum, in dem ich mit meinen Freundinnen Pilates mache.  
+— Jetzt, wo du es sagst… Ich sehe das Zentrum nicht, in dem ich mit meinen Freundinnen Pilates mache.  
 — Oh, dann fügen wir es gleich hinzu, Grossmutter!
 
 ## Seite 19
@@ -151,7 +151,7 @@ Das Letzte, was sie hinzufügten, war der Süssigkeitenladen, und Fina, die ein 
 
 ## Seite 22
 
-Fina nimmt die letzten Fruchtbonbons aus der Tüte und fragt:  
+Fina nimmt die letzten Fruchtbonbons aus dem Säcklein und fragt:  
 — Können wir noch öfter spazieren gehen, Grossmutter? Mir ist aufgefallen, dass noch einiges auf der Karte fehlt.
 
 Die Grossmutter umarmt sie liebevoll und antwortet:  
